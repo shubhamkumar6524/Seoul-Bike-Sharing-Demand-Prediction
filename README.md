@@ -1,6 +1,6 @@
 # Seoul-Bike-Sharing-Demand-Prediction
 
-<h><img src="https://media.giphy.com/media/26gJAJQ2OVynPuTYY/giphy.gif" align="centre"></h>
+<h><img src="[https://media.giphy.com/media/26gJAJQ2OVynPuTYY/giphy.gif](https://listnride-assets.s3.eu-central-1.amazonaws.com/images/home/usp/usp_1.gif)" align="centre"></h>
 <h1 align="center"> Seoul Bike Sharing Demand Prediction - ML Regression </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
