@@ -53,7 +53,6 @@
 
 <ul>
   <li><b>bike_sharing_main.ipynb</b> - Google Colab notebook with all the output visible</li>
-  <li><b>Seoul Bike Sharing Demand Prediction.docx</b> - Contains the summary of the project.</li>
   <li><b>Technical doc Bike sharing demand.docx</b> - Contains whole analysis strategy and analysis methodology followed for the project.</li>
 </ul>
 
