@@ -48,7 +48,7 @@
 
 <h2> :floppy_disk: Project Files Description</h2>
 
-<p>This Project includes 1 executable files, 2 text files as well as 1 directories as follows:</p>
+<p>This Project includes 1 executable files, 1 text files as well as 1 directories as follows:</p>
 <h4>Executable Files:</h4>
 
 <ul>
